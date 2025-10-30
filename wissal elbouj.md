@@ -1,7 +1,9 @@
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale et Analyse Temporelle
 
----
+WISSAL EL BOUJ
+
+![photo wissal](https://github.com/user-attachments/assets/c9c17686-efa7-4b3b-8ff1-c9516f9982bf)
 
 ## 1. Introduction et Contexte
 
